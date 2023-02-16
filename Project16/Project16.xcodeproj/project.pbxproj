@@ -13,6 +13,7 @@
 		115A254B299EA38700CF1001 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 115A2549299EA38700CF1001 /* Main.storyboard */; };
 		115A254D299EA39200CF1001 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 115A254C299EA39200CF1001 /* Assets.xcassets */; };
 		115A2550299EA39200CF1001 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 115A254E299EA39200CF1001 /* LaunchScreen.storyboard */; };
+		115A2559299EA5C600CF1001 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 115A2558299EA5C600CF1001 /* Capital.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		115A254C299EA39200CF1001 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		115A254F299EA39200CF1001 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		115A2551299EA39200CF1001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		115A2558299EA5C600CF1001 /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				115A2543299EA38700CF1001 /* AppDelegate.swift */,
 				115A2545299EA38700CF1001 /* SceneDelegate.swift */,
 				115A2547299EA38700CF1001 /* ViewController.swift */,
+				115A2558299EA5C600CF1001 /* Capital.swift */,
 				115A2549299EA38700CF1001 /* Main.storyboard */,
 				115A254C299EA39200CF1001 /* Assets.xcassets */,
 				115A254E299EA39200CF1001 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				115A2548299EA38700CF1001 /* ViewController.swift in Sources */,
 				115A2544299EA38700CF1001 /* AppDelegate.swift in Sources */,
+				115A2559299EA5C600CF1001 /* Capital.swift in Sources */,
 				115A2546299EA38700CF1001 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
